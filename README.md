@@ -12,3 +12,4 @@
 
 - [Act#6](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Actividades/Act%236.pdf)
 - [Act#7](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Actividades/Act%237.pdf)
+- [Act#8](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Actividades/Act_8.pdf)
