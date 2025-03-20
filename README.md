@@ -11,6 +11,7 @@
 - [Data Visualization](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Data%20Visualization%20course%20on%20Kaggle!.pdf)
 - [Feature Engineering](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Feature%20Engineering%20course%20on%20Kaggle!.pdf)
 - [Intro to SQL](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Intro%20to%20SQL%20course%20on%20Kaggle!.pdf)
+- [Advanced SQL](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Advanced%20SQL%20course%20on%20Kaggle!.pdf)
 
 ### Actividades
 
