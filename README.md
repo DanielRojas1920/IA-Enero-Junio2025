@@ -15,6 +15,7 @@
 - [Intro to Deep Learning](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Intro%20to%20Deep%20Learning%20course%20on%20Kaggle!.pdf)
 - [Computer Vision](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Computer%20Vision%20course%20on%20Kaggle!.pdf)
 - [Data Cleaning](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Data%20Cleaning%20course%20on%20Kaggle!.pdf)
+- [Intro to AI Ethics](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Intro%20to%20AI%20Ethics%20course%20on%20Kaggle!.pdf)
 
 ### Actividades
 
