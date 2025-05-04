@@ -18,6 +18,7 @@
 - [Intro to AI Ethics](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Intro%20to%20AI%20Ethics%20course%20on%20Kaggle!.pdf)
 - [Geospatial Analysis](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Geospatial%20Analysis%20course%20on%20Kaggle!.pdf)
 - [Machine Learning Explainability](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Machine%20Learning%20Explainability%20course%20on%20Kaggle!.pdf)
+- [Intro to Game AI and Reinforcement Learning](https://github.com/DanielRojas1920/IA-Enero-Junio2025/blob/main/Certificados/Daniel%20Rojas%20V%20completed%20the%20Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning%20course%20on%20Kaggle!.pdf)
 
 ### Actividades
 
